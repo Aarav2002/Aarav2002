@@ -10,7 +10,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 
-- :credit_card: **Full Name:** Shubham Kumar <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJhaWIxeWZ1bDRzdzdpYWI3YXFmdjhmM2psNGI2c3E5d2I3ZG1mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="400" align="right"/>
+- :credit_card: **Full Name:** Shubham Kumar <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJhaWIxeWZ1bDRzdzdpYWI3YXFmdjhmM2psNGI2c3E5d2I3ZG1mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="330" align="right"/>
 - :school: **Studying From:** Lovely professional University(Graduating in 2026)
 - :books: **Major:** Full-Stack Development, Data structure and Algorithms
 - :earth_asia: **Location:** Currently residing in Bokaro Steel City, Jharkhand, India
