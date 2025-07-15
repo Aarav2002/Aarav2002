@@ -17,7 +17,7 @@
 - :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
 - :monocle_face: **Interests:** Passionate about coding, indulging in well-deserved naps, and enjoying films
 - :sunglasses: **Favorite Quote:** "Life is like code, And you are the programmer."
-- :ok_hand: **Fun Fact:** Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep. Everything:point_right: Sleep.
+- :ok_hand: **Fun Fact:** Got a problem? :point_right: Sleep. Feeling happy? :point_right: Sleep. Feeling sad? :point_right: Sleep.
 
 
 <div id="user-content-toc">
