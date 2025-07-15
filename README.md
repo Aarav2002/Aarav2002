@@ -11,7 +11,7 @@
 
 
 - :credit_card: **Full Name:** Shubham Kumar <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: **Studied From:** Graduated from Lovely professional University
+- :school: **Studying From:** Lovely professional University(Graduating in 2026)
 - :books: **Major:** Full-Stack Development, Data structure and Algorithms
 - :earth_asia: **Location:** Currently residing in Bokaro Steel City, Jharkhand, India
 - :sweat_smile: **Proficiency:** Intermediate in coding :penguin:
